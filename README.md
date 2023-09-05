@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laila Hamada</h1>
 <h3 align="center">AI Student </h3>
 
-- 📫 How to reach me **lailahamada89@gmail.com**
+- 📫 How to reach me **leilahamada89@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
