@@ -17,7 +17,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lailahamada&show_icons=true&locale=en&layout=compact&theme=radical" alt="lailahamada" /></p>
 
 
-<p > <img src="https://github-readme-stats.vercel.app/api?username=lailahamada&show_icons=true&theme=radical" alt="lailahamada" /> </p>
+<p > <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lailahamada&show_icons=true&theme=radical" alt="lailahamada" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lailahamada&label=Profile%20views&color=0e75b6&style=flat" alt="lailahamada" /> </p>
 
