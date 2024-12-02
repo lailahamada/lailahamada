@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leila Hamada</h1>
-<h3 align="center">AI Student </h3>
+<h3 align="center">AI Engineer</h3>
 
 - 📫 How to reach me **leilahamada89@gmail.com**
 
