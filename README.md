@@ -1,39 +1,129 @@
-<h1 align="center">Hi 👋, I'm Laila Hamada</h1>
-<h3 align="center">AI Engineer</h3>
+<h1 align="center">Hi 👋, I'm Laila Hamada </h1>
+<h3 align="center">A passionate UG AI Engineer specializing in NLP and Generative AI from Cairo, Egypt</h3>
 
-- 📫 How to reach me **leilahamada89@gmail.com**
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=[lailahamada]" alt="[lailahamada]" />
+  </a>
+</p>
+
+---
+
+## 👋 About Me
+
+I'm a passionate AI student from Cairo, Egypt, specializing in NLP and Computer Vision.
+I have hands-on experience in C++, and Python, and I’m always eager to explore new technologies in:
+
+🧠 Natural Language Processing (NLP)
+👁️ Computer Vision
+📊 Machine Learning & AI Applications
+
+I'm currently learning and growing every day, open to internship opportunities, and actively building real-world projects to deepen my understanding and expand my skill set.
+
+🧩 Key Qualities
+
+🎓 AI Engineering student with a strong foundation in programming and systems design
+
+💡 Curious by nature — I dig deep into every topic I study and love researching beyond the surface
+
+📈 Self-motivated and constantly evolving
+
+🧠 Open-minded and collaborative — I enjoy exchanging ideas and learning from different perspectives
+
+🤝 Collaborative & open to mentorship opportunities
+
+💪 Patient, adaptable, and passionate about tech
+
+🧰 Experienced in building AI & ML interfaces using Streamlit and Gradio
+
+🤝 Open to internships, collaborations, and mentorship opportunities
+
+---
 
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🛠️ Languages & Tools
+
 <p align="left">
-<a href="https://www.linkedin.com/in/leila-hamada-1b7b70250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lailahamada" height="30" width="40" /></a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+  </a>
+  <a href="https://www.raspberrypi.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi" width="40" height="40"/>
+  </a>
+  <a href="https://www.cplusplus.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Google_Colaboratory_SVG_Logo.svg" alt="Colab" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+    <a href="https://streamlit.io/" target="_blank">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" height="40"/>
+  </a>
+  <a href="https://www.gradio.app/" target="_blank">
+    <img src="https://gradio.app/assets/img/logo.svg" alt="Gradio" height="40"/>
+  </a>
 
-<h3 align="left">Languages and Tools:</h3>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
 <p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailahamada&layout=compact&theme=cobalt" />
+</p>
 
-</a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
- 
-<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lailahamada&show_icons=true&locale=en&layout=compact&theme=radical" alt="lailahamada" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lailahamada&show_icons=true&locale=en" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lailahamada" />
+</p>
 
 
-<p > <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lailahamada&show_icons=true&theme=radical" alt="lailahamada" /> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lailahamada&label=Profile%20views&color=0e75b6&style=flat" alt="lailahamada" /> </p>
+---
 
 
+<img src="https://github-profile-trophy.vercel.app/?username=lailahamada&theme=cobalt&no-frame=true&margin-w=10" />
 
-<!--
-**lailahamada/lailahamada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📫 Let's Connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're looking for someone who's:
+
+- Passionate about tech  
+- Eager to learn  
+- Open to challenges  
+- Loves collaboration  
+
+Feel free to reach out!
+
+
+### 🔗 Contact
+
+- 📍 Cairo, Egypt  
+- 📧 [lailahamada620@gmail.com]  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/laila-hamada-1b7b70250/)  
+- 📫 [Telegram](https://t.me/Laila_Hamada_89)
+
+---
