@@ -61,10 +61,6 @@ I'm currently learning and growing every day, open to internship opportunities, 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
   </a>
 
-  <a href="https://colab.research.google.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Google_Colaboratory_Logo.svg" alt="Colab" width="40" height="40"/>
-  </a>
-
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
@@ -76,10 +72,6 @@ I'm currently learning and growing every day, open to internship opportunities, 
   <!-- NLP Tools -->
   <a href="https://spacy.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/explosion/spacy/master/website/src/images/logo.svg" alt="spaCy" height="40"/>
-  </a>
-
-  <a href="https://www.nltk.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/NLTK_logo.png" alt="NLTK" height="40"/>
   </a>
 
   <a href="https://huggingface.co/" target="_blank">
@@ -95,9 +87,6 @@ I'm currently learning and growing every day, open to internship opportunities, 
     <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" height="40"/>
   </a>
 
-  <a href="https://gradio.app/" target="_blank">
-    <img src="https://gradio.app/assets/img/gradio-logo.svg" alt="Gradio" height="40"/>
-  </a>
 </p>
 
 
