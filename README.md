@@ -3,14 +3,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=[lailahamada]" alt="[lailahamada]" />
-  </a>
-</p>
-
----
-
 ## 👋 About Me
 
 I'm a passionate AI student from Cairo, Egypt, specializing in NLP and Computer Vision.
