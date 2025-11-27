@@ -17,8 +17,11 @@ I'm a passionate AI student from Cairo, Egypt, specializing in NLP and Computer 
 I have hands-on experience in C++, and Python, and I’m always eager to explore new technologies in:
 
 🧠 Natural Language Processing (NLP)
+
 👁️ Computer Vision
+
 📊 Machine Learning & AI Applications
+
 
 I'm currently learning and growing every day, open to internship opportunities, and actively building real-world projects to deepen my understanding and expand my skill set.
 
@@ -50,12 +53,6 @@ I'm currently learning and growing every day, open to internship opportunities, 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.raspberrypi.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi" width="40" height="40"/>
   </a>
   <a href="https://www.cplusplus.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
