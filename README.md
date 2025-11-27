@@ -42,36 +42,64 @@ I'm currently learning and growing every day, open to internship opportunities, 
 
 ## 🛠️ Languages & Tools
 
+## 🛠️ Languages & Tools
+
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+
   <a href="https://www.cplusplus.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
+
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
+
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
   </a>
+
   <a href="https://colab.research.google.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Google_Colaboratory_SVG_Logo.svg" alt="Colab" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Google_Colaboratory_Logo.svg" alt="Colab" width="40" height="40"/>
   </a>
+
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
+
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
   </a>
-    <a href="https://streamlit.io/" target="_blank">
-    <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" height="40"/>
-  </a>
-  <a href="https://www.gradio.app/" target="_blank">
-    <img src="https://gradio.app/assets/img/logo.svg" alt="Gradio" height="40"/>
+
+  <!-- NLP Tools -->
+  <a href="https://spacy.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/explosion/spacy/master/website/src/images/logo.svg" alt="spaCy" height="40"/>
   </a>
 
+  <a href="https://www.nltk.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/NLTK_logo.png" alt="NLTK" height="40"/>
+  </a>
+
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="40"/>
+  </a>
+
+  <!-- FastAPI -->
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  </a>
+
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" height="40"/>
+  </a>
+
+  <a href="https://gradio.app/" target="_blank">
+    <img src="https://gradio.app/assets/img/gradio-logo.svg" alt="Gradio" height="40"/>
+  </a>
 </p>
+
 
 ---
 
