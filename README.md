@@ -8,11 +8,11 @@
 I'm a passionate AI student from Cairo, Egypt, specializing in NLP and Computer Vision.
 I have hands-on experience in C++, and Python, and I’m always eager to explore new technologies in:
 
-   🧠 Natural Language Processing (NLP)
+-🧠 Natural Language Processing (NLP)
 
-   👁️ Computer Vision
+-👁️ Computer Vision
 
-   📊 Machine Learning & AI Applications
+-📊 Machine Learning & AI Applications
 
 
 I'm currently learning and growing every day, open to internship opportunities, and actively building real-world projects to deepen my understanding and expand my skill set.
