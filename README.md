@@ -9,9 +9,7 @@ I'm a passionate AI student from Cairo, Egypt, specializing in NLP and Computer 
 I have hands-on experience in C++, and Python, and I’m always eager to explore new technologies in:
 
  - 🧠 Natural Language Processing (NLP)
-
  - 👁️ Computer Vision
-
  - 📊 Machine Learning & AI Applications
 
 
