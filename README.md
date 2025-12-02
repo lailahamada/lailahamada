@@ -17,23 +17,16 @@ I have hands-on experience in C++, and Python, and I’m always eager to explore
 
 I'm currently learning and growing every day, open to internship opportunities, and actively building real-world projects to deepen my understanding and expand my skill set.
 
- 🧩 Key Qualities
+### 🧩 Key Qualities
 
-   🎓 AI Engineering student with a strong foundation in programming and systems design
-    
-   💡 Curious by nature — I dig deep into every topic I study and love researching beyond the surface
-    
-   📈 Self-motivated and constantly evolving
-    
-   🧠 Open-minded and collaborative — I enjoy exchanging ideas and learning from different perspectives
-    
-   🤝 Collaborative & open to mentorship opportunities
-    
-   💪 Patient, adaptable, and passionate about tech
-    
-   🧰 Experienced in building AI & ML interfaces using Streamlit and Gradio
-    
-   🤝 Open to internships, collaborations, and mentorship opportunities
+- 🎓 **AI Engineering student** with a strong foundation in programming and systems design
+- 💡 **Curious by nature** — I dig deep into every topic I study and love researching beyond the surface
+- 📈 **Self-motivated** and constantly evolving
+- 🧠 **Open-minded and collaborative** — I enjoy exchanging ideas and learning from different perspectives
+- 🤝 **Collaborative & open to mentorship opportunities**
+- 💪 **Patient, adaptable, and passionate about tech**
+- 🧰 **Experienced in building AI & ML interfaces** using Streamlit and Gradio
+- 🤝 **Open to internships, collaborations, and mentorship opportunities**
 
 ---
 
@@ -83,11 +76,6 @@ I'm currently learning and growing every day, open to internship opportunities, 
   </a>
 
 </p>
-
-
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=lailahamada&theme=cobalt&no-frame=true&margin-w=10" />
 
 
 ## 📫 Let's Connect!
